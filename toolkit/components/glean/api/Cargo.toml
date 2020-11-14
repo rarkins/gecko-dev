@@ -7,7 +7,7 @@ publish = false
 
 [dependencies]
 bincode = "1.0"
-chrono = "0.4.10"
+chrono = "0.4.19"
 ffi-support = "0.4"
 glean = "33.3.0"
 glean-core = "33.3.0"
